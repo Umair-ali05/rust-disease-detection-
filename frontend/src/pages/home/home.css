@@ -1,0 +1,49 @@
+.page-body {
+  background-color: #d5b4b4;
+  font-family: "Times New Roman", Times, serif;
+  width: 92%;
+  height: 557px;
+  padding: 50px;
+  margin: 0 50px 0 50px;
+}
+
+.page-flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60%;
+  cursor: "pointer";
+  padding: 70px;
+}
+
+.heading {
+  color: #573d3d;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.5rem;
+}
+.image-div {
+  box-shadow: 50px;
+}
+.para {
+  color: #704f4f;
+}
+.select {
+  border: none;
+  padding: 15px 0 15px 0;
+}
+.select-heading {
+  color: #704f4f;
+  border-color: #704f4f;
+  background-color: #f5d0d0;
+  height: 40px;
+  width: 300px;
+}
+.post-button {
+  background-color: #f5d0d0;
+  color: #573d3d;
+  border: none;
+  padding: 5px;
+  border: 4px double #cccccc;
+  border-radius: 5px;
+  font-size: 15px;
+}
